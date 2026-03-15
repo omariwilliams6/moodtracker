@@ -1,5 +1,10 @@
 {
-  "plugins": [
-    "expo-router"
-  ]
+  "expo": {
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "baseUrl": "/moodtracker"
+    }
+  }
 }

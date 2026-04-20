@@ -5,6 +5,9 @@
     ],
     "experiments": {
       "baseUrl": "/moodtracker"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.moods"
     }
   }
 }
